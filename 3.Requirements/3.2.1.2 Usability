@@ -1,3 +1,17 @@
 3.2.1.2 Usability
 The software should have an intuitive user interface that is simple to use and navigate, as well as be user-friendly.
 
+Accessibility
+      The system can only be accessed if the user has a reliable internet connection and the system administrator has set up an account for them.
+Aesthetics: The application should have a visually appealing and professional design that reflects the brand and mission of the language center.
+Interactivity: The application should be interactive and engaging, with features such as animations, videos, and interactive quizzes to enhance the learning experience.
+Consistency: The application should have a consistent look and feel throughout, with consistent branding, typography, and color schemes.
+
+Scalability: The system should be designed to scale up or down to accommodate changes in demand, such as seasonal fluctuations or sudden spikes in traffic.
+Maintainability: The system should be easy to maintain and update, with clear documentation and support resources for developers and system administrators.
+Responsiveness
+Responsiveness 
+While there are situations where users need to access their profile or features through a different device, the system will be desktop and mobile friendly. The architecture of the system will be intricate in terms of service uptime. The primary goal of this architecture is to build comparable clones of the system settings so that, in the event that one copy goes down, a load balancer can send traffic to the remaining replica using the same port and IP address.
+
+Flexibility 
+• The system will be dynamically flexible, which means that it will automatically allocate memory and resources to support these requests based on the amount of requests. 
