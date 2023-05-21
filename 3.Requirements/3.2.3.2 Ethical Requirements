@@ -1,3 +1,16 @@
 2 Ethical Requirements
-   It is extremely important to handle the data of all the students, professors and the manager very carefully. The availability and visibility of personal information and other data shared in the system will be limited and personal information needed for registration of an individual such as: name, surname, email address, phone number, age, citizenship, etc will remain confidential unless a contract renovation is needed or other documentation such as a letter of recommendation must be delivered to a certain individual. Even in these cases, the permission of the person must be firstly granted before continuing with the procedures. The team of developers will grant the data security by taking cautious measures such as asking the user before sending or attaching something and displaying the information corresponding to the legal acts regarding the privacy terms for all first-time users. It is the responsibility of the manager of the business to emphasize the importance of these legal requirements by informing the students and teachers about the legal measures that will be taken in cases of detection of violation of privacy terms. Since the app can be visited only by active people that are part of the center, any attempt of third parties to log in will fail and the team of developers may share the record of the unsuccessful user session with the manager. Information stored in the app shall not be exchanged or sold to other irrelevant bodies, institutions or organizations and the people whose contract expired shall be granted the safe profile cancelation, considering here the principles of data discrepancy. 
+   It is extremely important to handle the data of all the students, professors and the manager very carefully.
+   The availability and visibility of personal information and other data shared in the system will be limited 
+   and personal information needed for registration of an individual such as: name, surname, email address, phone 
+   number, age, citizenship, etc will remain confidential unless a contract renovation is needed or other documentation 
+   such as a letter of recommendation must be delivered to a certain individual. Even in these cases, the permission of
+   the person must be firstly granted before continuing with the procedures. The team of developers will grant the data
+   security by taking cautious measures such as asking the user before sending or attaching something and displaying the
+   information corresponding to the legal acts regarding the privacy terms for all first-time users. It is the responsibility 
+   of the manager of the business to emphasize the importance of these legal requirements by informing the students and teachers
+   about the legal measures that will be taken in cases of detection of violation of privacy terms. Since the app can be visited
+   only by active people that are part of the center, any attempt of third parties to log in will fail and the team of developers 
+   may share the record of the unsuccessful user session with the manager. Information stored in the app shall not be exchanged or
+   sold to other irrelevant bodies, institutions or organizations and the people whose contract expired shall be granted the safe
+   profile cancelation, considering here the principles of data discrepancy. 
 
